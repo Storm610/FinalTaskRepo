@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<V8Exch:_1CV8DtUD xmlns:V8Exch="http://www.1c.ru/V8/1CV8DtUD/" xmlns:core="http://v8.1c.ru/data" xmlns:v8="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<V8Exch:Data>
+		<v8:CatalogObject.Акции>
+			<v8:Ref xsi:type="v8:CatalogRef.Акции">ad292c69-8a18-11e6-bf03-d7ccd04bb142</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>000000001</v8:Code>
+			<v8:Description>Супер акция</v8:Description>
+			<v8:ДатаНачала>2016-10-01T00:00:00</v8:ДатаНачала>
+			<v8:ДатаОкончания>2016-10-15T00:00:00</v8:ДатаОкончания>
+		</v8:CatalogObject.Акции>
+		<v8:CatalogObject.Номенклатура>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">54df95a3-88a1-11e6-bf02-ba0a06c9c1fe</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>000000001</v8:Code>
+			<v8:Description>Яблоко</v8:Description>
+		</v8:CatalogObject.Номенклатура>
+		<v8:DocumentObject.Покупка>
+			<v8:Ref>ad292c68-8a18-11e6-bf03-d7ccd04bb142</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Date>2016-10-04T18:07:27</v8:Date>
+			<v8:Number>000000001</v8:Number>
+			<v8:Posted>true</v8:Posted>
+			<v8:Акция xsi:type="v8:CatalogRef.Акции">00000000-0000-0000-0000-000000000000</v8:Акция>
+			<v8:СуммаРасходаПоАкции>0</v8:СуммаРасходаПоАкции>
+			<v8:Товары>
+				<v8:Номенклатура xsi:type="v8:CatalogRef.Номенклатура">54df95a3-88a1-11e6-bf02-ba0a06c9c1fe</v8:Номенклатура>
+				<v8:Количество>100</v8:Количество>
+				<v8:Цена>0</v8:Цена>
+				<v8:Сумма>0</v8:Сумма>
+			</v8:Товары>
+		</v8:DocumentObject.Покупка>
+	</V8Exch:Data>
+	<PredefinedData/>
+</V8Exch:_1CV8DtUD>
